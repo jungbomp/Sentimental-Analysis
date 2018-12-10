@@ -40,7 +40,7 @@ $ python OnlineLearning.py
 
 ### Status
 
-This is the second assignment of CSCI-564 Multimedia System Design, 2018 fall
+This is the second assignment of CSCI-561 Foundation of Artificial Intelligence, 2018 summer
 
 Version 1.0
 
