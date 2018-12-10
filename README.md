@@ -8,9 +8,9 @@ Machine learning algorithms have input data as numbers or number vectors. Since 
 
 
 ### Results
-![Precision_Recall Curve](Precision_Recall Curve.png)
+![Precision_Recall Curve](Precision_Recall_Curve.png)
 
-![ROC Curve](ROC Curve.png)
+![ROC Curve](ROC_Curve.png)
 
 The repository includes:
 * Source code
