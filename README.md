@@ -12,7 +12,7 @@ Machine learning algorithms have input data as numbers or number vectors. Since 
 
 ![ROC Curve](ROC_Curve.png)
 
-The repository includes:
+### The repository includes:
 * Source code
 * Test datasets
 
