@@ -16,7 +16,7 @@ Machine learning algorithms have input data as numbers or number vectors. Since 
 * Source code
 * Test datasets
 
-### [Datasets]
+### [Datasets](https://drive.google.com/file/d/1l02Rc7CemSXzVAnRMDdzAn66rPGXp1WS/view?usp=sharing)
 
 400K Amazon review texts and labeling(Positive or Negative)
 
