@@ -1,6 +1,6 @@
 # Sentimental Analysis
 
-This is an implementation of sentimental analysis of Amazon reviews with NLP on Python 2.7 using Scikit-Learn. To analyze Amazon review, first, convert text data into number vectors. This implementation uses three kinds of vectorization technique, such as "Bags of words", "Word to Vector", and hash function. Nextly, train vector data and its label (Positive or Negative) using training algorithm. This tests "Decision Tree", "Rendom Forest", and "Multi Layer Perceptron". Lastly, predict whether the test data is positive or negative.
+This is an implementation of sentimental analysis of Amazon reviews with NLP on Python 2.7 using Scikit-Learn. To analyze Amazon review, first, convert text data into number vectors. This implementation uses three kinds of vectorization technique, such as "Bags of words", "Word to Vector", and hash function. Nextly, train vector data and its label (Positive or Negative) using training algorithm. This tests "Decision Tree", "Random Forest", and "Multi Layer Perceptron". Lastly, predict whether the test data is positive or negative.
 
 ### Vectorization
 
